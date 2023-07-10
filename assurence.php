@@ -11,4 +11,7 @@ if ($age < 25 && $permis<2){
         echo "refusé"
 
     }
-} eleseif (($age < 25 && $))
+} eleseif (($age < 25 && $permis >=2)|| ($age >= 25 &&& $permis <)) {
+    if ()
+
+}
